@@ -15,7 +15,7 @@ console.log(valeInNumber)
 // false => 0;
 
 
-let needToPass = 0
+let needToPass = "harshit"
 
 let youArePassed = Boolean(needToPass)
 console.log(youArePassed)
