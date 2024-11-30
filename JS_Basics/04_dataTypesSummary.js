@@ -27,5 +27,5 @@ let mySymbol = Symbol(233)
     console.log("Now You know about all the data types")
  }
 newFnc()
- console.log(typeof);
+ console.log( );
  
