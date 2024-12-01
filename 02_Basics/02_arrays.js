@@ -24,6 +24,6 @@ let player1 = "P1"
 let player2 = "P2"
 let player3 = "P3"
 let player4 = "P4"
-let player5 = "P5"
 
-console.log(Array.of(player1, player2, player3, player4, player4)) //  To convert any element to array
+
+console.log(Array.of(player1, player2, player3, player4)) //  To convert any element to array
