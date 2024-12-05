@@ -18,7 +18,7 @@ const superHeroes = ["Captain America", "Thor", "Iron man", "Flash"]
 // })  // access values, index and the array together
 
 
-const programming =[
+const programming = [
     {
         laguageName: "JavaScript",
         extension: "JS"
@@ -57,7 +57,15 @@ const programming =[
     }
 ]
 
-programming.forEach( (lang)=>{
-    console.log(lang.laguageName);
-} )
+// programming.forEach( (lang)=>{
+//     console.log(lang.laguageName);
+// } )
+
+// const val = superHeroes.forEach((name)=>{
+//     // console.log(name);
+//     return name
+// })
+
+// console.log(val);
+
 
